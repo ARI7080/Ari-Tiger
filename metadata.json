@@ -1,0 +1,5 @@
+{
+  "name": "Ari Tiger",
+  "description": "A multi-app desktop environment with password-protected notes, drawing tools, games, and a custom email client using the ari.ink domain.",
+  "requestFramePermissions": []
+}
